@@ -1,4 +1,4 @@
-## IGTV product evaluation.
+## Evaluating IGTV Success: A Data-Driven Approach.
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -6,7 +6,8 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
  Let’s say you’re a Product Data Scientist at Instagram. How would you measure the success of the Instagram TV product?
-- In my role as a Product data scientist at Instagram, I'd have a bunch of ways to gauge how well IGTV s doing. Think of it as checking the pulse of this feature. We're talking about metrics, which are basically numbers that tell us what is going on. Here's what I'd look at:
+ ## Methodology
+- In my role as a Product data scientist at Instagram, I'd have a bunch of ways to gauge how well IGTV's doing. Think of it as checking the pulse of this feature. We're talking about metrics, which are basically numbers that tell us what is going on. Basically translating success into measurerable objectives aligned with intsgram's overall goals. Here's what I'd look at:
   ### 1. Views: 
 - This one's simple. Its about how many folks watched at least a bit of an IGTV video. We'd want to know if more people are tuning in over time.
 ### 2. Average Watch Time: 
@@ -14,9 +15,9 @@
 ### 3. Audience Retention:
 - This shows/ tells us how many people watched IGTV video from start to finish. Ideally, we'd like to see this number go up.
  ### 4. Engagement Rate:
-- We're talking about likes,comments and shares. It's important to know how often people are interacting with IGTV videos. This will help us come up with strategies to increase it in future for a better profits.
+- We're talking about likes,comments and shares. It's important to know how often people are interacting with IGTV videos. This will help us come up with strategies to increase it in future for a better profits. "Are users actively interacting with IGTV content through views, likes, comments, shares, and completion rates?"
  ### 5. Follower Growth:
-- This is about how many new followers IGTV creators are getting. It's a good sign if this number keeps going up. That means more profits.
+- This is about how many new followers IGTV creators are getting. It's a good sign if this number keeps going up, watchtime keeps increasing and that means more profits.
 ### 6. Revenue:
 - Money talks. We'd keep tabs on how much cash instagram is making from IGTV ads for instance. Will be important for future decision making.
 
@@ -29,6 +30,15 @@ What type of IGTV videos are people loving the most? We'd want to know what cate
 How effective are the features that help folks find IGTV content? We's study stuff like Explore Feed and recommendations or even the user interface in general. Conduct surveys about how our users find the navigation features of the app.
 ### IGTV User Satisfaction:
 Are people happy with IGTV? This matters alot and we'd want to know if folks are enjoying the product.
+
+# Leveraging data analysis skills
+Data is our key ally and here is how insights can be unlocked further.
+**Segmentation**
+Grouping users and content into meaningful segments. For example according to age groups, interests and video categories. Will use this information to identify variations in engagement and growth across different audiences.
+**Correlation**
+Analyzing content features that correlate with higher engagement metrics. Like for instance the video length and the editing style or audio used correlates to engagement views.
+
+
 
 > So, what's the point of all this data tracking? Well, it helps us figure out what's working and what's not with IGTV. For instance:
  - If we see our views going up, we know people are tuning in more.
